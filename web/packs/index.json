@@ -1,0 +1,9 @@
+{
+  "packs": [
+    "PEPEtop.json",
+    "PachaSauce.json",
+    "Meme_stickers.json",
+    "Windows95.json"
+  ],
+  "homeserver_url": "https://matrix.arus.one"
+}
