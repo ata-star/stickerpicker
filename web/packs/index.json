@@ -83,7 +83,9 @@
     "Edomite.json",
     "shroomjaak.json",
     "orbpondering.json",
-    "soyjaks.json"
+    "soyjaks.json",
+    "CryptoPunks-24x24.json",
+    "CryptoPunks-420x420.json"
   ],
   "homeserver_url": "https://matrix.arus.one"
 }
